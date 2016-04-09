@@ -167,7 +167,7 @@ td, th {
   top: 0%;
   overflow: hidden; }
 
-.thumb-container label:hover .thumb-overlay, .clients-belt .client-unit.active-client {
+.thumb-container label .thumb-overlay, .clients-belt .client-unit.active-client {
   -webkit-animation: animation 1s linear both;
   animation: animation 1s linear both;
   z-index: 2; }
