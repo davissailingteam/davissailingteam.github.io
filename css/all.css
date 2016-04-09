@@ -545,7 +545,9 @@ a {
   outline: 0; }
 
 a:hover, a:focus {
-  color: #e3c6b1; }
+  color: transparent; }
+/*#e3c6b1
+*/
 
 /* Selection colors (easy to forget)
  * ------------------------------------	 */
